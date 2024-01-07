@@ -1,4 +1,4 @@
-# copycat de la web de Kid Rock
+# Copycat de la web de Kid Rock
  ![Copycat de la web de Kid Rock](img/kidrock-copycatimg.png)
 
  # Contacto
